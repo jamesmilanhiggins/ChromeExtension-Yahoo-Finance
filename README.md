@@ -1,6 +1,6 @@
 # Chrome Extension to show $TSLA's'(Tesla's) Stock price pre 5-1 split
 
-This is a google chrome extension that adds 'The Pre-Split Price would be: XXXXX' to your Yahoo Finance webpage and shows you in real time, what the price would have been before the stock split. There is a crazy complex algorithm used here(current price * 5);
+This is a google chrome extension that adds 'The Pre-Split Price would be: XXXXX' to only TSLA's Yahoo Finance webpage and shows you in real time, what the price would have been before the stock split. There is a crazy complex algorithm used here(current price * 5);
 ![A preview of the added line](img/added_text.png)
 
 ## Installation
